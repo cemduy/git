@@ -1,1 +1,2 @@
 # GitHubEngineering
+只要在子目录删除文件夹，这整个设置仓库也会在GitHub上删除
